@@ -1,3 +1,4 @@
-# number-guessing
-guessing a number game.
-author- Afran Anas
+# Number-Guessing
+Guessing a number game.
+<br>
+Author- Afran Anas
